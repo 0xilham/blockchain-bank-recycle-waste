@@ -1,0 +1,38 @@
+{
+  "name": "blockchain-bank-recycle-waste",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^1.3.2",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "viem": "~1.19.15",
+    "wagmi": "~1.4.12",
+    "babel-plugin-inline-react-svg": "^1.1.2",
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^10.4.12",
+    "axios": "^1.6.2",
+    "ethers": "^5.7.2",
+    "flowbite": "^2.2.0",
+    "framer-motion": "6.0.0",
+    "postcss": "^8.4.17",
+    "postcss-import": "^13.0.0",
+    "react-scroll": "^1.8.1",
+    "tailwindcss": "^3.1.8",
+    "web3": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.18.10",
+    "@types/react": "^18.2.37",
+    "eslint": "^8.15.0",
+    "eslint-config-next": "^13.4.19",
+    "typescript": "^5.0.4"
+  }
+}
