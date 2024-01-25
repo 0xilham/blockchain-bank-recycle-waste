@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/GreatEdu-SIB-Cycle-6/blockchain-naufal-kelompok-4-bank-recycle-waste" target="_blank"><img src="https://github.com/GreatEdu-SIB-Cycle-6/blockchain-naufal-kelompok-4-bank-recycle-waste/blob/eefbf5c9944cc403074712d0130ffe94b766edfd/public/assets/logo.png" width="400" alt="Logo"></a></p>
+<p align="center"><a href="https://github.com/0xilham/blockchain-bank-recycle-waste" target="_blank"><img src="https://github.com/0xilham/blockchain-bank-recycle-waste/blob/d173b17699edc438f94cb02aa32372e283a2caed/public/assets/logo.png" width="400" alt="Logo"></a></p>
 
 # Panduan Instalasi Program
 
@@ -20,7 +20,7 @@ Untuk mempelajari lebih lanjut penggunaan framework ini bisa buka di halaman [do
 2. Lakukan cloning repository dengan mengetik:
 
 ```sh
-git clone https://github.com/GreatEdu-SIB-Cycle-6/blockchain-naufal-kelompok-4-bank-recycle-waste.git
+git clone https://github.com/0xilham/blockchain-bank-recycle-waste.git
 ```
 
 lalu enter. Setelah melakukan cloning terhadap repository berhasil, lanjut langkah selanjutnya.
@@ -28,7 +28,7 @@ lalu enter. Setelah melakukan cloning terhadap repository berhasil, lanjut langk
 3. Masuk ke direktori proyek dengan menggunakan perintah:
 
 ```sh
-cd blockchain-naufal-kelompok-4-bank-recycle-waste
+cd blockchain-bank-recycle-waste
 ```
 
 4. Lakukan instalasi node modules dengan perintah berikut:
@@ -74,7 +74,7 @@ Sekarang kamu sudah dapat melihat tampilan website aplikasi dengan membuka local
 
 ## Tampilan awal setelah dijalankan
 
-![App Screenshot](https://github.com/GreatEdu-SIB-Cycle-6/blockchain-naufal-kelompok-4-bank-recycle-waste/blob/e467dcc678cdd11ea9c29d97e514faff00e97dba/public/assets/ss.png)
+![App Screenshot](https://github.com/0xilham/blockchain-bank-recycle-waste/blob/d173b17699edc438f94cb02aa32372e283a2caed/public/assets/ss.png)
 
 # Panduan Menjadi Admin
 
